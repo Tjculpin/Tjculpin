@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Tjculpin
-- 👀 I’m interested in Coding Duh
-- 🌱 I’m currently learning Scripting Duh
+- 👀 I’m interested in Coding 
+- 🌱 I’m currently learning Scripting 
 - 💞️ I’m looking to collaborate on IDK
-- 📫 How to reach me Dm me one discord @tjculpin_61498
+- 📫 How to reach me Dm me one discord @silentascendant
+  
 
 <!---
 Tjculpin/Tjculpin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
