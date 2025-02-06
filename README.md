@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Tjculpin
-- 👀 I’m interested in Coding 
-- 🌱 I’m currently learning Scripting 
- - 📫 How to reach me Dm me one discord @silentascendant
+Hi i'm Tjculpin :D
   
 
 <!---
